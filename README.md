@@ -1,0 +1,2 @@
+# Taiwan_Administrative_Region_Data_Generator
+使用台灣政府開放資料生成台灣行政區JSON檔
